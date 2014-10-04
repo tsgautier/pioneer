@@ -20,6 +20,7 @@
 Pioneer provides an abstraction layer between your integration tests and your DOM markup, DRYing up your step definitions and consolidating how people interact with the DOM in tests.
 
 # Installing
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tsgautier/pioneer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
     npm install pioneer --save-dev
 
